@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Platypi:wght@300..800&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Platypi:wght@300..800&family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 :root{
     --primary-color: #F28B82;
     --secondary-color:#F2E394;
+    --Tertiary-color:#FFD0D0;
     --font-head: 18px;
     --font-data: 16px;
 }
@@ -9,8 +11,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:"Platypi",sans-serif;
+    font-family:"Platypi","Prompt",sans-serif;
     font-weight: 400;
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
 }
 .container{
     width: 1120px;
@@ -21,7 +28,6 @@
     display:flex;
     justify-content:center;
     align-items: center;
-
     
 }
 
@@ -29,11 +35,8 @@
     display:flex;
     justify-content:flex-start;
     align-items: center;
-    margin: 1rem;
-    padding: 20px;
     gap: 162px;
     & img {
-        
         width: 158px;
         height: 158px;
         cursor:pointer;
@@ -52,11 +55,12 @@
         height: 51px;
         text-align: center;
         border: none;
-        outline: var(--secondary-color);
+        outline:none;
+        font-size: var(--font-head);
+        color: black;
+        box-shadow: 5px 5px 0px rgba(78, 77, 77, 0.753);
         &::placeholder{
             color: #B69900;
-            
-
         }
         &:focus::placeholder{
             color: transparent;
@@ -78,8 +82,41 @@
     width: 51px;
     height: 51px;
     cursor: pointer;
+    box-shadow: 5px 5px 0px rgba(78, 77, 77, 0.753);
     & i {
         font-size: 20px;
     }
     
+}
+.Content{
+    display: flex;
+    justify-content: center;
+    height: 200vh;
+}
+.content-con{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 171px 1fr;
+    height: 200vh;
+}
+.Menu{
+    border:rgb(0, 255, 76) solid 1px;
+    display: inline-block;
+    padding: 12px 0px 0px 0px;
+}
+.Clensing , .Cleanser , .Thoner , .Serum
+, .Mark , .Body-Cream
+{
+    display: flex;
+    align-items: center;
+    gap: 35px;
+    padding: 17px;
+    margin: 0px 0px 12px 0px;
+    background-color: var(--Tertiary-color);
+    border-radius: 46px;
+    height: 45.91px;
+    
+}
+.True-content{
+    border:rgb(0, 255, 76) solid 1px;
 }
