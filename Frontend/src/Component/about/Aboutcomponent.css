@@ -1,0 +1,42 @@
+span{
+    font-family: "Prompt",sans-serif;
+    
+}
+.cardprofile {
+    font-family: "Prompt",sans-serif;
+    display: flex;
+    width: 350px;
+    height: 450px;
+    background: #F28B82;
+    border-radius: 20px;
+    align-items: center;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+
+    .card-con {
+        width: 100%;
+        img {
+            height: 250px;
+            width: 250px;
+            justify-self: center;
+            border-radius: 50%;
+            object-fit: cover;
+
+        }
+        .text-con{
+            margin: 5% 10% 0 10%;
+            color: black;
+            h1{
+                justify-self: center;
+                font-weight:500;
+                font-size: 1.5rem;
+            }
+            h2{
+                font-size: 1.5rem;
+                justify-self: center;
+            }
+            p{
+                font-size: 1.2rem;
+            }
+        }
+    }
+}
