@@ -25,6 +25,7 @@ nav {
     height: 4.3rem;
     position: sticky;
     top:0px;
+    z-index: 9999;
 
     .contrianer {
         .nav-con {

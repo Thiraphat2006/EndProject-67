@@ -1,0 +1,572 @@
+[
+  {
+    "KEY": 15,
+    "ProductNameThai": "การ์นิเย่ ไบรท์ คอมพลีท วิตามินซี เฟส สครับ",
+    "ProductNameEng": "Garnier Bright Complete Vitamin C Face Wash Scrub",
+    "Type": "ครีนเซอร์",
+    "Brand": "Garnier",
+    "Ingredients": "AQUA/WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, AOLIN, PERLITE, PHENOXYETHANOL PEG-14M, SALICYLIC ACID, PUMICE, IMONENE, LINALOOL, BENZYL SALICYLATE,BENZYLALCOHOL, PARFUM FRAGRANCE, GERANIOL,TETRASODIUM EDTA, CITRUS LIMON FRUIT EXTRACT LEMON FRUIT EXTRACT",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/15.Image.192802.png"
+  },
+  {
+    "KEY": 16,
+    "ProductNameThai": "เมนเทอร์โบไบรท์ ซูเปอร์ ดูโอ โฟม",
+    "ProductNameEng": "Garnier Turbo Bright Super Duo Foam",
+    "Type": "ครีนเซอร์",
+    "Brand": "Garnier",
+    "Ingredients": "AQUA / WATER, GLYCERIN, MYRISTIC ACID, STEARIC ACID, PALMITIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, BUTYLENE GLYCOL, SORBITOL, GLYCERYL STEARATE SE, PEG-8, PARFUM / FRAGRANCE, PHENOXYETHANOL, MENTHOL, CI 77499 / IRON OXIDES, TETRASODIUM GLUTAMATE DIACETATE, SALICYLIC ACID, KAOLIN, LINALOOL, BENZYL SALICYLATE, CHARCOAL POWDER, LIMONENE, BENZYL ALCOHOL, ASCORBYL GLUCOSIDE, POLYGLYCERIN-10, POLYGLYCERYL-10 MYRISTATE, POLYGLYCERYL-10 STEARATE, CITRIC ACID, SODIUM DEHYDROACETATE. (F.I.L. Z70026604/1)",
+    "Properties": "ใช้ล้างทไควาทสะอาดหน้า",
+    "Image": "../Image/Product-image/16.Image.194337.png"
+  },
+  {
+    "KEY": 17,
+    "ProductNameThai": "สกิน แนทเชอรัลส์ ซากุระ โกลว์ โกลว์อิ้ง เฟส วอช",
+    "ProductNameEng": "Garnier Sakura Glow Hyaluron Face Wash Foam",
+    "Type": "ครีนเซอร์",
+    "Brand": "Garnier",
+    "Ingredients": "AQUA / WATER, COCO-BETAINE, SODIUM LAURETH SULFATE, DISODIUM LAURETH SULFOSUCCINATE, POTASSIUM LAURATE, ACRYLATES COPOLYMER, KAOLIN, CI 14700 / RED 4, LINALOOL, PARFUM / FRAGRANCE, SODIUM CHLORIDE, SODIUM BENZOATE, SODIUM LAURYL SULFATE, PRUNUS YEDOENSIS LEAF EXTRACT, LIMONENE, ASCORBYL GLUCOSIDE, HYDROXYPROPYL STARCH PHOSPHATE, TETRASODIUM EDTA, CAPRYLOYL SALICYLIC ACID, ACRYLATES/STEARETH-20 METHACRYLATE COPOLYMER, BUTYLENE GLYCOL, BENZYL ALCOHOL",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/17.Image.192650.png"
+  },
+  {
+    "KEY": 18,
+    "ProductNameThai": "นีเวีย เมน เอ็กซ์ตร้า ไบรท์ เฟซ โฟม",
+    "ProductNameEng": "NIVEA Men Extra Bright Face Mud Foam",
+    "Type": "ครีนเซอร์",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Potassium Myristate, Propylene Glycol, Potassium Palmitate, Potassium Stearate, Glycerin, Potassium Laurate, PEG-150, PEG-8, Glyceryl Stearate, Cera Alba, Sodium Methyl Cocoyl Taurate, Potassium Arachidate, BHT, Trisodium EDTA, Potassium Oleate, 4-Butylresorcinol, Magnesium Chloride, Sodium Ascorbyl Phosphate, Tocopheryl Acetate, Panthenol, Glyceryl Glucoside, Ginkgo Biloba Leaf Extract, Glycyrrhiza Glabra Root Extract, Panax Ginseng Root Extract, Parfum",
+    "Properties": "ใช้ล้างทำความสะอาด",
+    "Image": "../Image/Product-image/18.Image.192707.png"
+  },
+  {
+    "KEY": 19,
+    "ProductNameThai": "เอ็กซ์ตร้า ไบรท์ ซี แอนด์ ไฮยา วิตามิน วอช โฟม",
+    "ProductNameEng": "NIVEA EXTRA BRIGHT C & HYA VITAMIN WASH FOAM",
+    "Type": "ครีนเซอร์",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, PEG-8, Myristic Acid, Glycerin, Stearic Acid, Potassium Hydroxide, Butylene Glycol, Lauric Acid, Palmitic Acid, Glyceryl Stearate SE, Citrus Sinensis Fruit Extract, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Hydrolyzed Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Ascorbyl Phosphate, Ubiquinone, Polyquaternium-7, Arachidic Acid, Oleic Acid, Beeswax, Pentylene Glycol, Ethylhexylglycerin, Sodium Benzoate, Trisodium EDTA, Parfum",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/19.Image.193413.png"
+  },
+  {
+    "KEY": 20,
+    "ProductNameThai": "ไบรท์ ออยล์ เคลียร์ เฟซ โฟม เมน",
+    "ProductNameEng": "NIVEA Men Bright Oil Clear Face Mud Foam",
+    "Type": "ครีนเซอร์",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Myristic Acid, Propylene Glycol, Palmitic Acid, Stearic Acid, Potassium Hydroxide, Glycerin, Lauric Acid, PEG-150, PEG-8, Glyceryl Stearate, Beeswax, Sodium Thiosulfate, Sodium Methyl Cocoyl Taurate, Arachidic Acid, Trisodium EDTA, Oleic Acid, Menthol, Sodium Chloride, Hydrogenated Coconut Acid, Aluminum Chlorohydrate, Carnitine, Magnesium Chloride, 4-Butylresorcinol, Tocopheryl Acetate, Sodium Ascorbyl Phosphate, Magnolia Officinalis Bark Extract, Panthenol, Glucose, PEG-40 Hydrogenated Castor Oil, Trideceth-9, Pantolactone, Citric Acid, Lactic Acid, Ginkgo Biloba Leaf Extract, Panax Ginseng Root Extract, Glycyrrhiza Glabra Root Extract, Sodium Benzoate, Potassium Sorbate, Sodium Sulfate, Caramel, Parfum, CI 10316, CI 42090",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/20.Image.194317.png"
+  },
+  {
+    "KEY": 21,
+    "ProductNameThai": "โฟมมิ่ง เฟเชี่ยล คลีนเซอร์",
+    "ProductNameEng": "CERAVE Foaming Cleanser",
+    "Type": "ครีนเซอร์",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM METHYL COCOYL TAURATE, PROPYLENE GLYCOL, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, METHYLPARABEN, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, CHOLESTEROL, DISODIUM EDTA, PROPYLPARABEN, CITRIC ACID, TETRASODIUM EDTA, HYDROLYZED HYALURONIC ACID, PHYTOSPHINGOSINE, XANTHAN GUM.",
+    "Properties": "ใช้ทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/21.Image.193729.png"
+  },
+  {
+    "KEY": 22,
+    "ProductNameThai": "ไฮเดรติ้ง คลีนเซอร์​",
+    "ProductNameEng": "CERAVE Hydrating Cleanser",
+    "Type": "ครีนเซอร์",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, GLYCERIN, CETEARYL ALCOHOL, PEG-40 STEARATE, STEARYL ALCOHOL, POTASSIUM PHOSPHATE, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, GLYCERYL STEARATE, BEHENTRIMONIUM METHOSULFATE, SODIUM LAUROYL LACTYLATE, SODIUM HYALURONATE, CHOLESTEROL, PHENOXYETHANOL, DISODIUM EDTA, DIPOTASSIUM PHOSPHATE, TOCOPHEROL, PHYTOSPHINGOSINE, XANTHAN GUM, CETYL ALCOHOL, POLYSORBATE 20, ETHYLHEXYLGLYCERIN",
+    "Properties": "ใช้ทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/22.Image.194404.png"
+  },
+  {
+    "KEY": 24,
+    "ProductNameThai": "เอสเอ สมูทติ้ง คลีนเซอร์",
+    "ProductNameEng": "CeraVe SA Smoothing Cleanser",
+    "Type": "ครีนเซอร์",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM METHYL COCOYL TAURATE, PROPYLENE GLYCOL, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, METHYLPARABEN, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, CHOLESTEROL, DISODIUM EDTA, PROPYLPARABEN, CITRIC ACID, TETRASODIUM EDTA, HYDROLYZED HYALURONIC ACID, PHYTOSPHINGOSINE, XANTHAN GUM.",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/24.Image.194455.png"
+  },
+  {
+    "KEY": 25,
+    "ProductNameThai": "เบลมมิช คอนโทรล คลีนเซอร์​",
+    "ProductNameEng": "CERAVE Blemish Control Cleanser",
+    "Type": "ครีนเซอร์",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM METHYL COCOYL TAURATE, PROPYLENE GLYCOL, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, METHYLPARABEN, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, CHOLESTEROL, DISODIUM EDTA, PROPYLPARABEN, CITRIC ACID, TETRASODIUM EDTA, HYDROLYZED HYALURONIC ACID, PHYTOSPHINGOSINE, XANTHAN GUM.",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/25.Image.192956.png"
+  },
+  {
+    "KEY": 26,
+    "ProductNameThai": "ไฮเดรติ้ง ครีม-ทู-โฟม คลีนเซอร์",
+    "ProductNameEng": "CeraVe Hydrating Cream-to-Foam Cleanser",
+    "Type": "ครีนเซอร์",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM METHYL COCOYL TAURATE, PROPYLENE GLYCOL, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, METHYLPARABEN, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, CHOLESTEROL, DISODIUM EDTA, PROPYLPARABEN, CITRIC ACID, TETRASODIUM EDTA, HYDROLYZED HYALURONIC ACID, PHYTOSPHINGOSINE, XANTHAN GUM.",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/26.Image.194507.png"
+  },
+  {
+    "KEY": 27,
+    "ProductNameThai": "แพลนท์เนอรี่ ทีทรี แอคเน่ วิป โฟม",
+    "ProductNameEng": "Plantnery Tea Tree Acne Whip Foam",
+    "Type": "ครีนเซอร์",
+    "Brand": "Plantnery",
+    "Ingredients": "Glycerin, Myristic Acid, Water, Potassium Hydroxide, Lauric Acid, Palmitic Acid, Stearic Acid, Glycol Distearate, Sodium Laureth Sulfate, Propylene Glycol, Hydrogenated Vegetable Glycerides, Cocamidopropyl Betaine, Phenoxyethanol, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Divinyldimethicone/Dimethicone Copolymer, Sodium Chloride, Disodium EDTA, Tetrasodium Etidronate, Polyquaternium-7, Sodium Benzoate, C12-13 Pareth-23, Niacinamide, Pyridoxine Hydrochloride, Tocopheryl Acetate, C12-13 Pareth-3, Bisabolol, Honey, Zinc PCA, Propanediol, Hamamelis Virginiana (Witch Hazel) Extract, PEG-8, Saccharomyces/Viscum Album (Mistletoe) Ferment Extract, Salicylic Acid, Sorbitol, Potassium Sorbate, Triethanolamine, Glycyrrhiza Glabra (Licorice) Root Extract, Panthenol, PEG/PPG-18/18 Dimethicone, Lactobacillus/Soybean Ferment Extract, Laminaria Ochroleuca Extract, 1,2-Hexanediol, Caffeine, Disodium Rutinyl Disulfate, Carnitine, Centella Asiatica Leaf Extract, Saccharomyces/Imperata Cylindrica Root Ferment Extract, Potassium Hyaluronate, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Xanthan Gum, Chondrus Crispus (Carrageenan) Extract, Citric Acid, Glucose, Caprylyl Glycol, Aloe Barbadensis Leaf Juice, Butylene Glycol, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Hydroxypropyltrimonium Hyaluronate.",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/27.Image.173747.png"
+  },
+  {
+    "KEY": 28,
+    "ProductNameThai": "แพลนท์เนอรี่ ยูชุ ออเร้นจ์ เฟเซียล คลีนเซอร์",
+    "ProductNameEng": "PLANTNERY YUZU ORANGE FACIAL CLEANSER",
+    "Type": "ครีนเซอร์",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, PROPYLENE GLYCOL, POLOXAMER 184, POLOXAMER 124, GLYCERETH-7 CAPRYLATE/CAPRATE,GLYCERIN, PEG-40 HYDROGENATED CASTOR OIL, DECYLENE GLYCOL, DISODIUM EDTA, CITRUS AURANTIUM DULCIS (ORANGE) PEEL OIL, PANTHENOL, 1,2-HEXANEDIOL, XANTHAN GUM, ETHYL ASCORBIC ACID, NIACINAMIDE, CITRUS SINENSIS FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, CAPRYLYL GLYCOL, BUTYLENE GLYCOL, GLUCOSE, SODIUM HYALURONATE, CHONDRUS CRISPUS EXTRACT, HYDROXYPROPYLTRIMONIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, HYALURONIC ACID, SODIUM HYALURONATE CROSSPOLYMER, HYDROLYZED SODIUM HYALURONATE, POTASSIUM HYALURONAT",
+    "Properties": "ใช้ล้างทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/28.Image.174417.png"
+  },
+  {
+    "KEY": 2,
+    "ProductNameThai": "การ์นิเย่ ไมเซล่า คลีนซิ่ง วอเตอร์",
+    "ProductNameEng": "Garnier Micellar Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Garnier",
+    "Ingredients": "Aqua/Water, Hexylene Glycol, Glycerin, Disodium Cocoamphodiacetate, Disodium EDTA, Poloxamer 184, Polyaminopropyl Biguanide",
+    "Properties": "ใช้เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/2.Image.162711.png"
+  },
+  {
+    "KEY": 3,
+    "ProductNameThai": "การ์นิเย่ สกิน แนทเชอรัลส์ ไมเซล่า คลีนซิ่ง วอเตอร์ ซาลิไซลิค บีเอชเอ",
+    "ProductNameEng": "GARNIER​ Micellar Cleansing Water Salicylic BHA",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Garnier",
+    "Ingredients": "AQUA / WATER, HEXYLENE GLYCOL, GLYCERIN, DISODIUM COCOAMPHODIACETATE, DISODIUM EDTA, POLOXAMER 184, POLYAMINOPROPYL BIGUANIDE, FIL B162919/3",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้าา",
+    "Image": "../Image/Product-image/3.Image.160609.png"
+  },
+  {
+    "KEY": 4,
+    "ProductNameThai": "การ์นิเย่ ไมเซล่า คลีนซิ่ง วอเตอร์ วิตามินซี",
+    "ProductNameEng": "Garnier Micellar Cleansing Water Vitamin C",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Garnier",
+    "Ingredients": "AQUA / WATER, HEXYLENE GLYCOL, GLYCERIN, ASCORBYL GLUCOSIDE, BHT, DISODIUM COCOAMPHODIACETATE, DISODIUM EDTA, MYRTRIMONIUM BROMIDE, POLOXAMER 184 (F.I.L.C243488/1)",
+    "Properties": "ใช้ทำความสะอาด",
+    "Image": "../Image/Product-image/4.Image.160906.png"
+  },
+  {
+    "KEY": 5,
+    "ProductNameThai": "นีเวีย ไมเซลแอร์ ออกซิเจน บูสท์ แอคเน่ แคร์",
+    "ProductNameEng": "NIVEA ACNE CARE MICELLAIR OXYGEN BOOST MICELLAR WATER",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Poloxamer 184, PEG-40 Hydrogenated Castor Oil,Magnolia Officinalis Bark Extract, Aloe Barbadensis Leaf Juice Powder, Glyceryl Glucoside, Glycerin, Sorbitol, PEG-7 Glyceryl Cocoate,Decyl Glucoside, Disodium Cocoyl Glutamate, 1,2-Hexanediol, Polyquaternium-10, Citric Acid, Sodium Chloride, SodiumAcetate, Propylene Glycol, Trisodium EDTA, Phenoxyethanol",
+    "Properties": "ทำความสะอาด",
+    "Image": "../Image/Product-image/5.Image.165500.png"
+  },
+  {
+    "KEY": 16,
+    "ProductNameThai": "นีเวีย แอคเน่ รีแพร์ แอดวานซ์ ไมเซล่า",
+    "ProductNameEng": "NIVEA Acne Repair Advance Micellar",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Poloxamer 184, PEG-40 Hydrogenated Castor Oil, Salicylic Acid, Carnitine, Maris Sal, Sodium Hyaluronate, Magnolia Officinalis Bark Extract, Glycerin, Sorbitol, Propylene Glycol, Decyl Glucoside, Disodium Cocoyl Glutamate, 1,2-Hexanediol, Citric Acid, Sodium Chloride, Trisodium EDTA, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Methylparaben, Polyquaternium-10, Sodium Sulfate, Parfum",
+    "Properties": "ทำความสะอาด",
+    "Image": "../Image/Product-image/6.Image.170132.png"
+  },
+  {
+    "KEY": 7,
+    "ProductNameThai": "นีเวีย โรซี่ ไวท์ ฮอกไกโด โรส ไมเซล่า วอเตอร์",
+    "ProductNameEng": "NIVEA Rosy White Hokkaido Rose Micellar Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Poloxamer 184, PEG-40 Hydrogenated Castor Oil, Rose Extract, Sodium Ascorbyl Phosphate, Sodium Hyaluronate, Hydrolyzed Pearl, Glyceryl Glucoside, Glycerin, Sorbitol, 1, 2-Hexanediol, PEG-7 Glyceryl Cocoate, Decyl Glucoside, Polyquaternium-10, Citric Acid, Butylene Glycol, Propylene Glycol, Disodium Cocoyl Glutamate, Sodium Chloride, Sodium Sulfate, Trisodium EDTA, Phenoxyethanol, Methylparaben, Parfum",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/7.Image.170450.png"
+  },
+  {
+    "KEY": 8,
+    "ProductNameThai": "นีเวีย เอ็กซ์ตร้า ไบรท์ ซี แอนด์ ไฮยา วิตามิน ไมเซล่า",
+    "ProductNameEng": "NIVEA Extra Bright C & Hya Vitamin Micellar Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua Poloxamer 184 PEG-40 Hydrogenated Castor Oil Citrus Sinensis Fruit Extract Sodium Hyaluronate Hydrolyzed Sodium Hyaluronate Sodium Acetylated Hyaluronate Sodium Hyaluronate Crosspolymer Sodium Ascorbyl Phosphate Glycerin 12-Hexanediol Sorbitol PEG-7 Glyceryl Cocoate Decyl Glucoside Polyquaternium-10 Citric Acid Disodium Cocoyl Glutamate Propylene Glycol Trisodium EDTA Pentylene Glycol Ethylhexylglycerin Methylparaben Phenoxyethanol Parfum",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/8.Image.171016.png"
+  },
+  {
+    "KEY": 9,
+    "ProductNameThai": "นีเวีย เดอร์ม่า แอคเน่ แคร์ ไมเซล่า",
+    "ProductNameEng": "NIVEA Derma Acne Care Micellar",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, Poloxamer 184, PEG-40 Hydrogenated Castor Oil, Salicylic Acid, Carnitine, Maris Sal, Sodium Hyaluronate, Magnolia Officinalis Bark Extract, Glycerin, Sorbitol, Propylene Glycol, Decyl Glucoside, Disodium Cocoyl Glutamate, 1,2-Hexanediol, Citric Acid, Sodium Chloride, Trisodium EDTA, PEG-7 Glyceryl Cocoate, Phenoxyethanol, Methylparaben, Polyquaternium-10, Sodium Sulfate, Parfum",
+    "Properties": "เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/9.Image.194820.png"
+  },
+  {
+    "KEY": 10,
+    "ProductNameThai": "แพลนท์เนอรี่ ที ทรี เฟิรสท์ คลีนซิ่ง วอเตอร์",
+    "ProductNameEng": "Plantnery Tea Tree Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, BUTYLENE GLYCOL, GLYCERIN, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, COCO-GLUCOSIDE, GLYCERYL OLEATE, PHENOXYETHANOL, DISODIUM EDTA, PEG-40 HYDROGENATED CASTOR OIL, MELALEUCA ALTERNIFOLIA LEAF OIL, HAMAMELIS VIRGINIANA LEAF WATER, SODIUM HYALURONATE, NIACINAMIDE, PYRIDOXINE HYDROCHLORIDE, PANTHENOL, CARNITINE, ZINC PCA, ETHYLHEXYLGLYCERIN, COCAMIDOPROPYL DIMETHYLAMINE, SALICYLIC ACID",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/10.Image.171540.png"
+  },
+  {
+    "KEY": 11,
+    "ProductNameThai": "แพลนท์เนอรี่ซิก้า ไมเซล่า เซนซิทีฟ คลีนซิ่ง วอเตอร์",
+    "ProductNameEng": "Plantnery CICA Micellar Sensitive Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SORBITOL, XYLITOL, BUTYLENE GLYCOL,PEG-40 HYDROGENATED CASTOR OIL, DISODIUM EDTA, CETRIMONIUM CHLORIDE, SACCHARIDE ISOMERATE, GLYCERIN, CERAMIDE NP, DIPROPYLENE GLYCOL, PROPANEDIOL, CENTELLA ASIATICA EXTRACT, HYDROGENATED LECITHIN, GLYCERYL STEARATE, CERAMIDE AP, CERAMIDE AS, CERAMIDE NS, CHOLESTEROL, CITRIC ACID, SODIUM CITRATE,PORTULACA OLERACEA EXTRACT, CERAMIDE EOP",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/11.Image.171844.png"
+  },
+  {
+    "KEY": 12,
+    "ProductNameThai": "แพลนท์เนอรี่ แอคเน่ ไมเซล่า คลีนซิ่ง วอเตอร์",
+    "ProductNameEng": "Plantnery Tea Tree Acne Micellar Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, BUTYLENE GLYCOL, PEG-6 CAPRYLIC/CAPRIC GLYCERIDE, GLYCERIN, MELALEUCA ALTERNIFOLIA LEAF OIL, HAMAMELIS VIRGINIANA WATER, ZINC PCA, SALICYLIC ACID, NIACINAMIDE, SODIUM HYALURONATE, CARNITINE, PANTHENOL, PYRIDOXINE HYDROCHLORIDE, TOCOPHEROL, PEG-40 HYDROGENATED CASTOR OIL, DISODIUM EDTA, COCO-GLUCOSIDE, GLYCERYL OLEATE, TRIETHANOLAMINE,CITRIC ACID, COCAMIDOPROPYL DIMETHYLAMINE,BENZOIC ACID, POTASSIUM SORBATE, SODIUM BENZOATE, HYDROGENATED PALM GLYCERIDES CITRATE, ETHYLHEXYLGLYCERIN, PHENOXYETHANOL",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/12.Image.171952.png"
+  },
+  {
+    "KEY": 13,
+    "ProductNameThai": "แพลนท์เนอรี่ วิต ซี ไบร์ท ไมเซล่า คลีนซิ่ง วอเตอร์",
+    "ProductNameEng": "Plantnery Vit C Bright Micellar Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, PEG-6 CAPRYLIC/CAPRIC GLYCERIDE, GLYCERIN, BUTYLENE GLYCOL, ASCORBYL GLUCOSIDE, SACCHARIDE ISOMERATE, LACTOBACILLUS/LEMON PEEL FERMENT EXTRACT, TERMINALIA FERDINANDIANA FRUIT EXTRACT, PEG-40 HYDROGENATED CASTOR OIL, DISODIUM EDTA, POLYAMINOPROPYL BIGUANIDE, TRIETHANOLAMINE, CITRIC ACID, SODIUM CITRATE, PHENOXYETHANOL, TETRASODIUM EDTA",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/13.Image.172017.png"
+  },
+  {
+    "KEY": 14,
+    "ProductNameThai": "แพลนท์เนอรี่ คอมเฟรย์ เซนซิทีฟ คลีนซิ่ง",
+    "ProductNameEng": "Plantnery Comfrey Sensitive Micellar Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Plantnery",
+    "Ingredients": "DEIONIZED WATER, PEG-6 CAPRYLIC/CAPRIC GLYCERIDE, BUTYLENE GLYCOL, GLYCERIN, ALLANTOIN, SODIUM HYALURONATE, PANTHENOL, PYRIDOXINE HYDROCHLORIDE, ROSA DAMASCENA FLOWER WATER, CARNITINE, CHONDRUS CRISPUS EXTRACT, HYDROXYPROPYLTRIMONIUM HYALURONATE, HYDROLYZED HYALURONIC ACID, SODIUM ACETYLATED HYALURONATE, HYALURONIC ACID, HYDROLYZED SODIUM HYALURONATE, SODIUM HYALURONATE CROSSPOLYMER, POTASSIUM HYALURONATE, PEG-40 HYDROGENATED CASTOR OIL, DISODIUM EDTA, POLYAMINOPROPYL BIGUANIDE, TRIETHANOLAMINE, 1,2-HEXANEDIOL, XANTHAN GUM, CAPRYLYL GLYCOL, GLUCOSE",
+    "Properties": "เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/14.Image.172041.png"
+  },
+  {
+    "KEY": 23,
+    "ProductNameThai": "เซราวี ไมเซล่า คลีนซิ่ง วอเตอร์​",
+    "ProductNameEng": "CeraVe Micellar Cleansing Water",
+    "Type": "คลีนซิ่ง",
+    "Brand": "Cerave",
+    "Ingredients": "AQUA / WATER / EAU, COCAMIDOPROPYL HYDROXYSULTAINE, GLYCERIN, SODIUM LAUROYL SARCOSINATE, PEG-150 PENTAERYTHRITYL TETRASTEARATE, NIACINAMIDE, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, SODIUM METHYL COCOYL TAURATE, PROPYLENE GLYCOL, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, METHYLPARABEN, SODIUM CHLORIDE, SODIUM LAUROYL LACTYLATE, CHOLESTEROL, DISODIUM EDTA, PROPYLPARABEN, CITRIC ACID, TETRASODIUM EDTA, HYDROLYZED HYALURONIC ACID, PHYTOSPHINGOSINE, XANTHAN GUM.",
+    "Properties": "ใช้เช็ดทำความสะอาด",
+    "Image": "../Image/Product-image/23.Image.194433.png"
+  },
+  {
+    "KEY": 39,
+    "ProductNameThai": "เคลียร์โนส วิตามินซี คอนเซนเทรต ซูเปอร์ เซรั่ม",
+    "ProductNameEng": "CLEAR NOSE Vit C Super Serum",
+    "Type": "เซรั่ม",
+    "Brand": "Clear Nose",
+    "Ingredients": "WATER, NIACINAMIDE, BUTYLENE GLYCOL, BETAINE, GLYCERIN, MAGNESIUM ASCORBYL PHOSPHATE, CAPRYLYL 2-GLYCERYL ASCORBATE, ASCORBYL PALMITATE, ASCORBYL TETRAISOPALMITATE, TOCOPHEROL, TOCOPHERYL ACETATE, FERULIC ACID, SALICYLIC ACID, ARBUTIN, GLUTATHIONE, ALOE BARBADENSIS LEAF JUICE POWDER, NARCISSUS POETICUS CALLUS EXTRACT, HAMAMELIS VIRGINIANA (WITCH HAZEL) EXTRACT, CITRUS JUNOS FRUIT EXTRACT, ALGAE EXTRACT, ANTHEMIS NOBILIS FLOWER EXTRACT, CITRUS SINENSIS PEEL OIL EXPRESSED, CITRUS AURANTIUM AMARA PEEL EXTRACT, CITRUS NOBILIS (MANDARIN ORANGE) FRUIT EXTRACT, OENOTHERA BIENNIS (EVENING PRIMROSE) SEED EXTRACT, PALMITIC ACID, PALMITOYL SH-OCTAPEPTIDE-24 AMIDE, PALMITOYL SH-TRIPEPTIDE-5 NORISOLEUCYL SH-NONAPEPTIDE-1, PALMITOYL TRIPEPTIDE-5, PANCRATIUM MARITIMUM EXTRACT, PHELLODENDRON AMURENSE BARK EXTRACT, CYNARA SCOLYMUS (ARTICHOKE) LEAF EXTRACT, DNA, PHENYLPROPANOL, PRUNUS PERSICA (PEACH) LEAF EXTRACT, REHMANNIA CHINENSIS ROOT EXTRACT, MALIC ACID, CITRIC ACID, LECITHIN, PENTYLENE GLYCOL, CAPRYLIC/CAPRIC TRIGLYCERIDE, POLYSORBATE 80, BEESWAX, BENZALKONIUM CHLORIDE, BUTYROSPERMUM PARKII (SHEA) BUTTER, CAMELLIA SINENSIS LEAF EXTRACT, CAPRYLYL GLYCOL, HIBISCUS ESCULENTUS FRUIT EXTRACT, HOUTTUYNIA CORDATA EXTRACT, FUCUS VESICULOSUS EXTRACT, ISOMERIZED SAFFLOWER ACID, KAOLIN,LINSEED ACID,ASCORBIC ACID",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/39.Image.143732.png"
+  },
+  {
+    "KEY": 40,
+    "ProductNameThai": "การ์นิเย่ ไบรท์ คอมพลีท",
+    "ProductNameEng": "Garnier Bright Complete Booster Serum",
+    "Type": "เซรั่ม",
+    "Brand": "Garnier",
+    "Ingredients": "936092 09 - : AQUA / WATER, GLYCERIN, ALCOHOL, DIPROPYLENE GLYCOL, BUTYLENE GLYCOL, PEG/PPG/POLYBUTYLENE GLYCOL-8/5/3 GLYCERIN, NIACINAMIDE, HYDROXYETHYLPIPERAZINE ETHANE SULFONIC ACID, BIS-PEG-18 METHYL ETHER DIMETHYL SILANE, 3-O-ETHYL ASCORBIC ACID, ISONONYL ISONONANOATE, BHT, LINALOOL, GERANIOL,PARFUM / FRAGRANCE, SALICYLIC ACID, SODIUM CITRATE, SODIUM HYALURONATE, PHENOXYETHANOL, PHENYLETHYL RESORCINOL, ADENOSINE, AMMONIUM POLYACRYLOYLDIMETHYL TAURATE, TOCOPHERYL ACETATE, DISODIUM EDTA, LIMONENE, HYDROGENATED LECITHIN, CITRIC ACID, CITRUS LIMON FRUIT EXTRACT / LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, XANTHAN GUM, MALTODEXTRIN, ACETYL TRIFLUOROMETHYLPHENYL VALYLGLYCINE, OXOTHIAZOLIDINECARBOXYLIC ACID, BENZYL SALICYLATE, BENZYL ALCOHOL. (F.I.L.C225251/1)",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/40.Image.143752.png"
+  },
+  {
+    "KEY": 41,
+    "ProductNameThai": "นีเวีย เอ็กซ์ตร้า ไบรท์ ซี แอนด์ ไฮยา วิตามิน เซรั่ม",
+    "ProductNameEng": "NIVEA Extra Bright C&HYA",
+    "Type": "เซรั่ม",
+    "Brand": "Nivea",
+    "Ingredients": "Ingredients: Aqua, Alcohol Denat., Glycerin, PEG-40 Hydrogenated Castor Oil Sodium Ascorbyl Phosphate, 4-Butylresorcinol, Sodium Acetylated Hyaluronate, Sodium Hyaluronate, Sodium Hyaluronate Crosspolymer, Hydrolyzed Sodium Hyaluronate, Ubiquinone, Citrus Sinensis Fruit Extract, Phenoxyethanol, Cocoglycerides, 1,2-Hexanediol, Citric Acid, Diethylhexyl Syringylidenemalonate, Gellan Gum, Xanthan Gum, Caprylic/Capric Triglyceride, Sodium Chloride, Sodium Sulfate, Pentylene Glycol, Ethylhexylglycerin, Benzyl Alcohol, Tocopherol, Parfum, CI 15985",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/41.Image.143804.png"
+  },
+  {
+    "KEY": 42,
+    "ProductNameThai": "สกินซิสต้า วี เอ็กซ์ตร้า ไวท์ บูสเตอร์",
+    "ProductNameEng": "Skinsista V Extra White Booster",
+    "Type": "เซรั่ม",
+    "Brand": "Skinsista",
+    "Ingredients": "Aqua, Propanediol, Glycerin, Bis-Peg-12 Dimethicone, Niacinamide, Microcitrus Australasica Fruit Extract, Diglucosyl Gallic Acid, Ecklonia Cava Extract, Hizikia Fusiforme Extract, Codium Tomentosum Extract, Gelidium Cartilagineum Extract, Terminalia Ferdinandiana Fruit Extract, 4-Butylresorcinol, Tocopheryl Acetate, Triethanolamine, Dipotassium Glycyrrhizinate, Sodium Hyaluronate, Mannitol, Cellulose, Hydroxyproplymethylcellulose, Phenoxyethanol (and) Chlorphenesin (and) Glycerin, Carbomer, Disodium Citrate, Citric Acid, Disodium EDTA",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/42.Image.143813.png"
+  },
+  {
+    "KEY": 43,
+    "ProductNameThai": "เคที่ ดอลล์ ไวท์ทามิน ซี สปอท เซรั่ม",
+    "ProductNameEng": "Cathy Doll Whitamin C Spot Serum",
+    "Type": "เซรั่ม",
+    "Brand": "Cathy Doll",
+    "Ingredients": "WATER,BUTYLENE GLYCOL,PHENOXYETHANOL, SODIUM CITRATE,ETHYL ASCORBIC ACID, HYDROXYETHYLCELLULOSE,CITRIC ACID,CHLORPHENESIN,PEG-40 HYDROGENATED CASTOR OIL,GLYCERIN,PEG-60 HYDROGENATED CASTOR OIL, FRAGRANCE,PROPYLENE GLYCOL,VOLCANIC SOIL, SODIUM CHLORIDE,ASCORBIC ACID,AMYLOPECTIN, HYALURONIC ACID,ARBUTIN,HELIANTHUS ANNUUS SEED OIL,CI 15985,RAPHANUS SATIVUS ROOT EXTRACT, CHAMOMILLA RECUTITA EXTRACT,1,2-HEXANEDIOL, ETHYLHEXYLGLYCERIN,SODIUM HYALURONATE, KOJIC DIPALMITATE,TERMINALIA FERDINANDIANA FRUIT EXTRACT,SODIUM SULFATE,POTASSIUM SORBATE, SODIUM BENZOATE,CAVIAR EXTRACT,ETHYL HEXANEDIOL,GLYCYRRHIZA GLABRA ROOT EXTRACT, TOCOPHEROL",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/43.Image.143826.png"
+  },
+  {
+    "KEY": 54,
+    "ProductNameThai": "เดอะออร์ดิเนอรี ไฮยาลูโรนิก แอซิด 2% + บี5",
+    "ProductNameEng": "The Ordinary Hyaluronic Acid 2% + B5",
+    "Type": "เซรั่ม",
+    "Brand": "The Ordinary",
+    "Ingredients": "Aqua (Water), Sodium Hyaluronate, Pentylene Glycol, Propanediol, Sodium Hyaluronate Crosspolymer, Panthenol, Glycerin, Trisodium Ethylenediamine Disuccinate, Citric Acid, Isoceteth-20, Ethoxydiglycol, Ethylhexylglycerin, Hexylene Glycol, 1,2-Hexanediol, Phenoxyethanol, Caprylyl Glycol, Ahnfeltia Concinna Extract.",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/54.Image.144043.png"
+  },
+  {
+    "KEY": 55,
+    "ProductNameThai": "วิชี่ มิเนอรัล 89 เซรั่ม",
+    "ProductNameEng": "Vichy mineral 89 serum",
+    "Type": "เซรั่ม",
+    "Brand": "Vichy",
+    "Ingredients": "Aqua / Water / Eau, Propanediol, Glycerin, PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin, Methyl Gluceth-20, Citric Acid, Hydroxyacetophenone, Sodium Hyaluronate, Biosaccharide Gum-1, Butylene Glycol, Caprylyl Glycol, Carbomer, Maltodextrin.",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/55.Image.144052.png"
+  },
+  {
+    "KEY": 56,
+    "ProductNameThai": "ลอรีอัล ปารีส รีไวทัลลิฟท์ ไฮยาลูรอนิค แอซิด 1.5% ไฮยาลูรอน เซรั่ม",
+    "ProductNameEng": "L'Oréal Paris Revitalift 1.5% Pure Hyaluronic Acid Serum",
+    "Type": "เซรั่ม",
+    "Brand": "L'Oréal",
+    "Ingredients": "AQUA / WATER, GLYCERIN, HYDROXYETHANOLPIPERAZINE ETHANE SULFONIC ACID, SODIUM HYALURONATE, PHENOXYETHANOL, PEG-60 HYDROGENATED CASTOR OIL, ASCORBYL GLUCOSIDE, CHLORPHENESIN, HYDROX YPROPYL GUAR, SODIUM ACETYLATED HYALURONATE, XANTHAN GUM, PENTYLENE GLYCOL, SECALE CEREALE SEED EXRACT / RYE SEED EXIRACT, DIPEPTIDE DIAMINOBUTYROYL BENZYLAMIDE DIACETATE (FIL B242774/I).",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/56.Image.144101.png"
+  },
+  {
+    "KEY": 57,
+    "ProductNameThai": "เซราวี ไฮยาลูรอนิค แอซิด เซรั่ม​",
+    "ProductNameEng": "CeraVe Hyaluronic Acid Serum",
+    "Type": "เซรั่ม",
+    "Brand": "Cerave",
+    "Ingredients": "Aqua/Water, Glycerin, Cetearyl Ethylhexanoate, Dimethicone, Ammonium Polyacryloyldimethyl Taurate, Sodium Hyaluronate, Panthenol, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Cetearyl Alcohol, Behentrimonium Methosulfate, Sodium Hydroxide, Sodium Lauroyl Lactylate, Cholesterol, Phenoxyethanol, Disodium EDTA, Isopropyl Myristate, Caprylyl Glycol, Citric Acid, Xanthan Gum, Phytosphingosine, Ethylhexylglycerin.",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/57.Image.144120.png"
+  },
+  {
+    "KEY": 58,
+    "ProductNameThai": "เฟรช โรส เซรั่ม",
+    "ProductNameEng": "Fresh Rose Deep Hydration Oil-Infused Serum",
+    "Type": "เซรั่ม",
+    "Brand": "Fresh",
+    "Ingredients": "Aqua (Water), Rosa Damascena Flower Water, Coco-Caprylate/Caprate, C9-12 Alkane, Propanediol, Ethylhexyl Palmitate, Pentylene Glycol, Glycerin, Squalane, Rosa Damascena Flower Extract, Rosa Damascena Extract, Camelina Sativa Seed Oil, Rosa Rubiginosa Seed Oil, Cucumis Sativus (Cucumber) Fruit Extract, Rosa Damascena Flower Oil, Tocopherol, Sodium Citrate, Sodium Chloride, Ethylhexylglycerin, Xanthan Gum, Citric Acid, Caprylic/Capric Triglyceride, Sorbitan Sesquioleate, 1,2- Hexanediol, Caprylyl Glycol, Sodium Benzoate, Potassium Sorbate, Citronellol, Geraniol.",
+    "Properties": "ทาบำรุงผิวหน้า",
+    "Image": "../Image/Product-image/58.Image.144130.png"
+  },
+  {
+    "KEY": 29,
+    "ProductNameThai": "โทนเนอร์ แอนนัว ฮาร์ทลีฟ 77 ซูทธิ่ง",
+    "ProductNameEng": "ANUA Heartleaf 77% Soothing Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "ANUA",
+    "Ingredients": "Houttuynia Cordata Extract (77%) ,Water , 1,2-Hexanediol , Glycerin , Betaine , Panthenol , Saccharum Officinarum (Sugar Cane) Extract , Portulaca Oleracea Extract , Butylene Glycol , Vitex Agnus Castus Extract , Chamomilla Recutita (Matricaria) , Flower Extract , Arctium Lappa Root Extract , Phellinus Linteus Extract , Vitis Vinifera (Grape) Fruit Extract , Pyrus Malus (Apple) Fruit Extract , Centella Asiatica Extract , Isopentyldiol , Methylpropanediol , Acrylates/​C10-30 Alkyl Acrylate Crosspolymer , Tromethamine , Disodium EDTA",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/29.Image.143434.png"
+  },
+  {
+    "KEY": 30,
+    "ProductNameThai": "สมูท อี แอคเน่ เคลียร์ ไวท์เทนนิ่ง โทนเนอร์",
+    "ProductNameEng": "Smooth E Acne Clear Whitening Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Smooth E",
+    "Ingredients": "Propolis Extract, Honey Extract, Butylene Glycol, 1,2-Hexanediol,Glycerin, Betaine, Cassia Obtusifolia Seed Extract, Panthenol, Polyglyceryl-10 Laurate, Polyglyceryl-10 Myristate, Ethylhexylglycerin, Sodium Hyaluronate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Caprylic/Capric Triglyceride.",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/30.Image.143523.png"
+  },
+  {
+    "KEY": 31,
+    "ProductNameThai": "มาดากัสการ์ เซนเทลล่า โทนนิ่ง โทนเนอร์",
+    "ProductNameEng": "SKIN1004 Madagascar Centella Tone Brightening Boosting Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Skin1004",
+    "Ingredients": "Centella Extract from Madagascar(84), Purified Water, Dipropylene Glycol, 1,2-Hexanediol, Niacinamide, Glucono delta-Lactone, Tromethamine, Carbomer, Sodium Citrate, Adenosine, Disodium EDTA, Dipotassium Glycyrrhizate, Betaine,Hyaluronic Acid, Ethylhexylglycerin",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/31.Image.143543.png"
+  },
+  {
+    "KEY": 32,
+    "ProductNameThai": "นูโทรจีนา อัลตร้า เจนเทิล แอลกอฮอล์-ฟรี โทนเนอร์",
+    "ProductNameEng": "NEUTROGENA ULTRA GENTLE ALCOHOL-FREE TONER",
+    "Type": "โทนเนอร์",
+    "Brand": "Neutrogena",
+    "Ingredients": "Water, Glycerin, Glycereth-26, Polysorbate 20, Sodium Benzoate, Panthenol, Citric Acid",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/32.Image.143554.png"
+  },
+  {
+    "KEY": 33,
+    "ProductNameThai": "เทเยอรส์ วิช ฮาเซล โรสพิเทล",
+    "ProductNameEng": "Thayers Lavender Witch Hazel Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Thayers",
+    "Ingredients": "Ingredients: Purified Water, Certified Organic Witch Hazel Ext Blend (Hamamelis Virginiana Extract (Witch Hazel), Aloe Barbadensis Leaf Juice (Filet of Aloe Vera)), Glycerin, Phenoxyethanol, Lavandula Angustifolia (Lavender) Flower Water, Fragrance (Natural Lavender), Citric Acid, Citrus Grandis (Grapefruit) Seed Extract",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/33.Image.143607.png"
+  },
+  {
+    "KEY": 44,
+    "ProductNameThai": "เฟรช โรส ดีพ ไฮเดรชั่น เฟเชียล โทนเนอร์",
+    "ProductNameEng": "Fresh Rose Deep Hydration Facial Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Fresh",
+    "Ingredients": "Aqua (Water), Glycerin, Propanediol, 1,2-Hexanediol, Polyglycerin-3, Rosa Centifolia Flower, Rosa Damascena Flower Water, Rosa Damascena Extract, Rosa Multiflora Fruit Extract, Rosa Damascena Flower Extract, Angelica Keiskei Leaf/Stem Extract, Rosa Damascena Flower Oil, Butylene Glycol, Sodium Citrate, Citric Acid, Xanthan Gum, Sodium Hyaluronate, Caprylyl Glycol, Chlorphenesin, Sodium Benzoate, Potassium Sorbate, Citronellol, Geraniol <18497>Disclaimer: Fresh product ingredient listings are updated periodically. Before using a Fresh product, please read the ingredient list on the packaging of your product to be sure that the ingredients are appropriate for your personal use.",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/44.Image.143838.png"
+  },
+  {
+    "KEY": 45,
+    "ProductNameThai": "ซัมบายมี เอเอชเอ-บีเอชเอ-พีเอชเอ 30 เดย์ส มิราเคิล โทนเนอร์",
+    "ProductNameEng": "Some By Mi AHA-BHA-PHA 30 Days Miracle Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Some By Mi",
+    "Ingredients": "Water, Butylene Glycol, Dipropylene Glycol, Glycerin, Niacinamide, Melaleuca Alternifolia (Tea Tree) Leaf Extract, Polyglyceryl-4 Caprate, Papaya Fruit Extract, Lentil Seed Extract, Hamamelis Virginiana (Witch Hazel) Extract, Nelumbo Nucifera Flower Extract, Swiftlet Nest Extract, Sodium Hyaluronate, Fructan, Allantoin, Adenosine, Hydroxyethyl Urea, Xylitol, Salicylic Acid, Lacto-Bionic Acid, Citric Acid, Sodium Citrate, 1,2-Hexanediol, Pentylene Glycol, Caprylyl Glycol, Benzyl Glycol, Ethylhexylglycerin, Ethylhexanediol, Raspberry Ketone, Phenoxyethanol, Mentha Piperita (Peppermint) Oil.",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/45.Image.143903.png"
+  },
+  {
+    "KEY": 46,
+    "ProductNameThai": "ยูเซอรีน เดอมาโต้คลีน โทนเนอร์",
+    "ProductNameEng": "Eucerin DermatoClean Clarifying Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Eucerin",
+    "Ingredients": "Aqua, Dipropylene Glycol, Glyceryl Glucoside, Glycerin, Sodium Hyaluronate, Decyl Glucoside, Sodium Citrate, Citric Acid, Cocamidopropyl Betaine, Trisodium EDTA, Sodium Chloride, 1-2-Hexanediol, Phenoxyethanol",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/46.Image.143916.png"
+  },
+  {
+    "KEY": 47,
+    "ProductNameThai": "มามอนด์ โรส วอเตอร์ โทนเนอร์",
+    "ProductNameEng": "Mamonde Rose Water Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Mamonde",
+    "Ingredients": "Red Rose Water (90.97%), Butylene Glycol, Propanediol, 1,2-Hexanediol, PPG-13-Decyltetradec-24, Carbomer, Ethylhexylglycerin, Disodium EDTA, Tromethamine, Allantoin, Red Rose Extract (0.01%), Purified Water, Sodium Hyaluronate, Hyaluronic Acid, Hyaluronate, Hydroluride, Hydroluride, Hyaluronide, Hyaluronide, Hyaluronide, Hyaluronide, Hyaluronide.",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/47.Image.143925.png"
+  },
+  {
+    "KEY": 48,
+    "ProductNameThai": "ลาเนจ เฟรช คัลมิ่ง โทนเนอร์",
+    "ProductNameEng": "Laneige Fresh Calming Toner",
+    "Type": "โทนเนอร์",
+    "Brand": "Laneige",
+    "Ingredients": "Water / Aqua / Eau, Butylene Glycol, Glycerin, Glycereth-26, Dipropylene Glycol, 1,2-Hexanediol, Panthenol, Polyquaternium-51, Propanediol, PPG-13-Decyltetradeceth-24, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ethylhexylglycerin, Tromethamine, Cellulose Gum, Disodium EDTA.",
+    "Properties": "ใช้เช็ดทำความสะอาดหน้า",
+    "Image": "../Image/Product-image/48.Image.143935.png"
+  },
+  {
+    "KEY": 34,
+    "ProductNameThai": "มิซึมิ ยูวี ไบรท์ บอดี้ เซรั่ม",
+    "ProductNameEng": "MizuMi UV Bright Body Serum",
+    "Type": "โลชั่น",
+    "Brand": "MizuMi",
+    "Ingredients": "Sunscreen, Sakura Extract, Kakadu Plum Extract",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/34.Image.143622.png"
+  },
+  {
+    "KEY": 35,
+    "ProductNameThai": "มิซึมิ บีทรี เอเอชเอ ไวท์ บอดี้ บูสเตอร์",
+    "ProductNameEng": "MIZUMI B3 AHA WHITE BODY SERUM BOOSTER",
+    "Type": "โลชั่น",
+    "Brand": "MizuMi",
+    "Ingredients": "10% Vitamin B3, 5% AHA, 5 types of Ceramides, Vitamin B5",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/35.Image.143634.png"
+  },
+  {
+    "KEY": 36,
+    "ProductNameThai": "วาสลีน โปร เดอร์มา ไบรท์เทนนิ่ง วิธ ไนอาซินาไมด์ บอดี้ โลชั่น",
+    "ProductNameEng": "VASELINE PRODERMA BRIGHTENING WITH NIACINAMIDE BODY LOTION",
+    "Type": "โลชั่น",
+    "Brand": "VASELINE",
+    "Ingredients": "Water, Glycerin, Niacinamide, Stearic Acid, Caprylic/Capric Triglyceride, Dimethicone, Glycol Stearate, PEG-100 Stearate, Cyclopentasiloxane, Petrolatum, Glyceryl Stearate, Hydroxystearic Acid, Saccharide Isomerate, Citric Acid, Sodium Citrate, Phenoxyethanol, Palmitic Acid, Cetyl Alcohol, Hexylresorcinol, Sodium Ascorbyl Phosphate, Triethanolamine, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Methylparaben, Perfume, Carbomer, Propylparaben, Stearamide AMP, Disodium EDTA, Arachidic Acid, Titanium Dioxide, BHT, Tocopherol",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/36.Image.143651.png"
+  },
+  {
+    "KEY": 37,
+    "ProductNameThai": "สมูท อี ไวท์ เทอราพี บอดี้โลชั่น",
+    "ProductNameEng": "SMOOTH E WHITE THERAPIE BODY LOTION",
+    "Type": "โลชั่น",
+    "Brand": "Smooth E",
+    "Ingredients": "Water, Stearyl Octanoate, Caprylic/Capric Triglyceride, PEG-20, Glyceryl Stearate, Propylene Glycol, Butylene Glycol, Cetyl Alcohol, Stearyl Alcohol, Tocopherol, Barley Extract, Hydrolyzed Barley Protein, Potassium Palmitoyl Hydrolyzed Wheat Protein, Jojoba Oil, Fragrance, Lactic Acid, Ascorbyl Palmitate, Cucumber Extract, Hydrolyzed Oat Protein, Bisabolol, Hydrolyzed Silk, Grape Seed Oil, Licorice Extract, Phenoxyethanol, Methylparaben, Ethylparaben, Isobutylparaben, Butylparaben, Propylparaben.",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/37.Image.143707.png"
+  },
+  {
+    "KEY": 38,
+    "ProductNameThai": "นีเวีย เอ็กซ์ตร้า ไบรท์ เรเดียนท์ แอนด์ สมูท บอดี้ เซรั่ม เอสพีเอฟ30 พีเอ+++",
+    "ProductNameEng": "NIVEA EXTRA BRIGHT RADIANT",
+    "Type": "โลชั่น",
+    "Brand": "Nivea",
+    "Ingredients": "Aqua, C12-15 Alkyl Benzoate, Octocrylene, Phenylbenzimidazole Sulfonic Acid, Butyl Methoxydibenzoylmethane, Glycerin, Cyclomethicone, Distarch Phosphate, Polyglyceryl-3 Methylglucose Distearate, Alcohol Denat., Cetyl Alcohol, Sodium Ascorbyl Phosphate, Ubiquinone, Carnitine, Creatine, Myrciaria Dubia Fruit Juice, Maipighia Glabra Fruit Juice, Glycyrrhiza Glabra Root Extract, Bisabolol, Ascorbic Acid, Propylene Glycol, Glyceryl Glucoside, Trideceth-9, Carbomer, Sodiun Polyacrylate, Hydroxyethylcellulose, Trisodium EDTA, Alcohol, Phenoxyethanol, Ethylparaben, Methylparaben, Citric Acid, Sodium Hydroxide, Parfum",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/38.Image.143719.png"
+  },
+  {
+    "KEY": 49,
+    "ProductNameThai": "ยูเซอริน สปอตเลส ไบรท์เทนนิ่ง สกิน โทน เพอร์เฟคติ้ง บอดี้ โลชั่น",
+    "ProductNameEng": "Eucerin SPOTLESS BRIGHTENING SKIN TONE PERFECTING BODY LOTION",
+    "Type": "โลชั่น",
+    "Brand": "Eucerin",
+    "Ingredients": "Aqua, Glycerin, Alcohol Denat., Diisopropyl Adipate, Butylene Glycol Dicaprylate/Dicaprate, C12-15 Alkyl Benzoate, Cetearyl Alcohol, Dibutyl Adipate, Distarch Phosphate, Glyceryl Stearate, Isobutylamido Thiazolyl Resorcinol , Sodium Hyaluronate, Glycyrrhiza Inflata Root Extract, Xanthan Gum, Sodium Stearoyl Glutamate, Tocopheryl Acetate, Citric Acid, Sodium Chloride, Trisodium EDTA, Ethylhexylglycerin",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/49.Image.143945.png"
+  },
+  {
+    "KEY": 50,
+    "ProductNameThai": "นีเวีย เอ็กซ์ตร้า ไบรท์ 10 ซูเปอร์ วิตามิน แอนด์ สกินฟู้ด เซรั่ม",
+    "ProductNameEng": "Nivea Extra Bright 10 Super Vitamins Skin Foods Serum",
+    "Type": "โลชั่น",
+    "Brand": "Nivea",
+    "Ingredients": "Ingredients: Aqua, Glycerin, Alcohol Denat., C12-15 Alkyl Benzoate, Tapioca Starch, Butyl Methoxydibenzoylmethane, Octocrylene, Phenylbenzimidazole Sulfonic Acid, Cetearyl Alcohol, Phenoxyethanol, Behenyl Alcohol, Sodium Hydroxide, Sodium Stearoyl Glutamate, Ethylhexylglycerin, Trisodium EDTA, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Xanthan Gum, Niacinamide, Sodium Ascorbyl Phosphate, Persea Gratissima Oil, Retinyl Palmitate, Tocopheryl Acetate, Panthenol, Maltodextrin, Sodium Chloride, Citrus Limon Juice, Folic Acid, Lycium Barbarum Fruit Extract, Punica Granatum Fruit Extract, Glycyrrhiza Glabra Root Extract, Pantolactone, Potassium Sorbate, Citric Acid, Tocopherol, Sorbic Acid, Ascorbic Acid, Parfum",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/50.Image.143958.png"
+  },
+  {
+    "KEY": 51,
+    "ProductNameThai": "ซิตร้า เอเอชเอ เพิร์ล ยูวี ไบรท์ โลชั่น",
+    "ProductNameEng": "Citra AHA Pearl UV Bright Lotion",
+    "Type": "โลชั่น",
+    "Brand": "Citra",
+    "Ingredients": "Water, Isopropyl Palmitate, Stearic Acid, Glyceryl Stearate, Mineral Oil, Ethylhexyl Methoxycinnamate, Niacinamide, Glycerin, Phenoxyethanol, Titanium Dioxide, Triethanolamine, Dimethicone, Butyl Methoxydibenzoylmethane, Perfume, Limonia Acidissima Extract, Sodium Ascorbyl Phosphate, Carbomer, Methylparaben, Cetyl Alcohol.",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/51.Image.144011.png"
+  },
+  {
+    "KEY": 52,
+    "ProductNameThai": "เจอร์เกนส์ เอจ ดีฟายอิ้ง มัลติ วิตามินส์ ,มอยส์เจอไรเซอร์",
+    "ProductNameEng": "Jergens Age Defying Multi-Vitamin Moisturizer",
+    "Type": "โลชั่น",
+    "Brand": "JERGENS",
+    "Ingredients": "Water, Glycerin, Cetearyl Alcohol, Stearic Acid, Dimethicone, Aluminum Starch Octenylsuccinate, Tapioca Starch, Mineral Oil, Petrolatum, Laureth-3, Fragrance, Sodium Hydroxide, Arginine, Carbomer, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Alcohol, Lecithin, Magnesium Ascorbyl Phosphate, Retinyl.",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/52.Image.144021.png"
+  },
+  {
+    "KEY": 53,
+    "ProductNameThai": "ด็อกเตอร์พงศ์ แบร์ริเออร์เอ็กซ์ บอดี้บัตเตอร์ครีม",
+    "ProductNameEng": "Dr.PONG BarrierX Body Butter Cream",
+    "Type": "โลชั่น",
+    "Brand": "Dr.PONG",
+    "Ingredients": "Water, Urea, Glycerin, Talc, Caprylic/Capric Triglyceride, Simmondsia Chinensis Seed Oil(Jojoba oil), Cetyl Alcohol, Stearyl Alcohol, Glyceryl Stearate, Tocopheryl Acetate, PEG-100 Stearate, Butyrospermum Parkii Butter(Shea butter), Aloe Barbadensis Leaf Juice Powder, Maltodextrin, Butylene Glycol, Sodium Lauroyl Lactylate, Centella Asiatica Leaf Extract, Chenopodium Quinoa Seed Extract, Eucalyptus Globulus Leaf Extract, Hydrogenated Lecithin, Panax Ginseng Root Extract, Cholesterol, 1,2-Hexanediol, Ceramide NP, Phytosphingosine, Ceramide AP, Ethyl Hexanediol, Hexacarboxymethyl Dipeptide-12(Aquatide), Ceramide EOP, Triethanolamine, Carbomer, Allantoin, PEG-75 Stearate, Xanthan Gum, Ceteth-20, Steareth-20, Triethoxycaprylylsilane, Disodium EDTA, Phenoxyethanol, Chlorphenesin",
+    "Properties": "ทาบำรุงผิวกาย",
+    "Image": "../Image/Product-image/53.Image.144031.png"
+  }
+]

@@ -1,12 +1,12 @@
 import './nav.css'
 import { NavLink } from 'react-router';
-import logo from '../../Image/LOGO/โลโก้เว็ป-removebg(cop).png'
+import logo from '../../../public/Image/LOGO/โลโก้เว็ป-removebg(cop).png'
 
 const Navbar = () => {
 
     return (
         <>
-            <nav className='h-fit md:h15'>
+            <nav className='p-2 h-fit md:h15'>
                 <div className='contrianer'>
                     <div className="nav-con grid grid-rows-2 justify-center md:flex md:justify-between">
                         <div className="logo">
@@ -16,6 +16,9 @@ const Navbar = () => {
                             <ul >
                                 <li>
                                     <NavLink to='/'>Home</NavLink>
+                                </li>
+                                <li>
+                                    <NavLink to='/ProductPage'>Product</NavLink>
                                 </li>
                                 <li>
                                     <NavLink to='/About'>About</NavLink>

@@ -2,7 +2,7 @@ import { React, useEffect } from 'react'
 import './Recommand(1).css'
 import { Link } from 'react-router'
 
-import BG from '../../Image/BG/man_bgremove.png'
+import BG from '../../../public/Image/BG/man_bgremove.png'
 
 export default function Recommand() {
     //ใช้ useEffect ในการเปลี่ยนค่าของ css ใน body โดยเมื่อเข้ามาในหน้านี้จะทำให้ body ไม่สามารถเลื่อนได้
