@@ -1,16 +1,37 @@
 import React from 'react'
 import './Aboutcomponent.css'
-import TEST from "../../Image/BG/man01.jpg"
+import TEST from "../../../public/Image/BG/man01.jpg"
 function Aboutcomponent() {
+    const DataProfile = [
+        {
+            IDcard: 'card1',
+            name: 'สุปรียา ทาทน',
+            no: 36,
+            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
+        },
+        {
+            IDcard: 'card2',
+            name: 'ธีรภัทร บูรณ์พิภพธนโชติ',
+            no: 34,
+            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
+        },
+        {
+            IDcard: 'card3',
+            name: 'ฟ้าใส ใจเกินร้อย',
+            no: 29,
+            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
+        }
+    ]
+
     return (
         <>
             <Toptext />
             <div className="allcardprofile w-4/5 flex justify-between mt-7 ml-40">
-                <CardProfile
-                    name={`สุปรียา ทาทน`} no={36} 
-                    purpose={`จัดทำ แก้ไข รูปเล่ม`}/>
-                <CardProfile name={`ธีรภัทร บูรณ์พิภพธนโชติ`} no={34} />
-                <CardProfile name={`ฟ้าใส ใจเกินร้อย`} no={29} />
+                {DataProfile.map((item, index) => {
+                    return (
+                        <CardProfile key={index} IDcard={item.IDcard} name={item.name} no={item.no} purpose={item.purpose} />
+                    )
+                })}
             </div>
         </>
     )
@@ -19,16 +40,16 @@ function Aboutcomponent() {
 export default Aboutcomponent
 
 //CardProfile
-export const CardProfile = ({ name, no, purpose }) => {
+export const CardProfile = ({ IDcard , name, no, purpose }) => {
     return (
         <>
-            <div className="cardprofile ">
+            <div className="cardprofile " id={IDcard}>
                 <div className="card-con">
                     <img src={TEST} alt="" />
                     <div className="text-con">
                         <h1>{name}</h1>
                         <p>ปวช. 3/1 คอมฯ เลขที่ {no}</p>
-                        <h2>หน้าที่</h2>
+                        {/* <h2>หน้าที่</h2> */}
                         <p>{purpose}</p>
                     </div>
                 </div>

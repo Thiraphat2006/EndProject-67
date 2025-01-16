@@ -1,9 +1,10 @@
-span{
-    font-family: "Prompt",sans-serif;
-    
+span {
+    font-family: "Prompt", sans-serif;
+
 }
+
 .cardprofile {
-    font-family: "Prompt",sans-serif;
+    font-family: "Prompt", sans-serif;
     display: flex;
     width: 350px;
     height: 450px;
@@ -14,6 +15,7 @@ span{
 
     .card-con {
         width: 100%;
+
         img {
             height: 250px;
             width: 250px;
@@ -22,21 +24,47 @@ span{
             object-fit: cover;
 
         }
-        .text-con{
+
+        .text-con {
             margin: 5% 10% 0 10%;
             color: black;
-            h1{
+
+            h1 {
                 justify-self: center;
-                font-weight:500;
+                font-weight: 500;
                 font-size: 1.5rem;
             }
-            h2{
+
+            h2 {
                 font-size: 1.5rem;
                 justify-self: center;
             }
-            p{
+
+            p {
                 font-size: 1.2rem;
             }
         }
+    }
+}
+
+#card1 {
+    animation: fadeIn 3s ease forwards;
+}
+
+#card2 {
+    animation: fadeIn 5s ease forwards;
+}
+
+#card3 {
+    animation: fadeIn 7s ease forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
     }
 }
