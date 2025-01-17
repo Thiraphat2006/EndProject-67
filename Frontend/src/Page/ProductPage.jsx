@@ -1,4 +1,4 @@
-import React  from 'react'
+import React from 'react'
 //import Component
 import Navbar from '../Component/Navbar/Nav'
 import Card from '../Component/CardProduct/Card'

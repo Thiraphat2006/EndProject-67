@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Prompt",sans-serif;
 }
 body{
     &::-webkit-scrollbar{
@@ -90,4 +91,8 @@ body{
 /* ที่เก็บการ์ดต่างไว้ */
 .allcard {
     justify-items: center;
+}
+
+hr{
+    background-color: #F2E394;
 }
