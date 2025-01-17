@@ -23,6 +23,18 @@ body{
         border-radius: 10px;
     }
 }
+body{
+    &::-webkit-scrollbar{
+        width: 15px;
+    }
+    &::-webkit-scrollbar-track{
+        background: #fee4e4;
+    }
+    &::-webkit-scrollbar-thumb{
+        background: #ffa7a7;
+        border-radius: 10px;
+    }
+}
 
 .card {
     background-color: var(--card-bg-color);
