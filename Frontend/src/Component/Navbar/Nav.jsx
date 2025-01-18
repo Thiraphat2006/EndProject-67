@@ -15,7 +15,7 @@ const Navbar = () => {
                         <div className="btn-list">
                             <ul >
                                 <li>
-                                    <NavLink to='/'>Home</NavLink>
+                                    <NavLink to='/'>Home<i className='bx bxs-home pl-2'></i></NavLink>
                                 </li>
                                 <li>
                                     <NavLink to='/ProductPage'>Product</NavLink>

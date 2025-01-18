@@ -9,28 +9,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Prompt",sans-serif;
+    font-family: "Prompt", sans-serif;
 }
-body{
-    &::-webkit-scrollbar{
+
+body {
+    &::-webkit-scrollbar {
         width: 15px;
     }
-    &::-webkit-scrollbar-track{
+
+    &::-webkit-scrollbar-track {
         background: #fee4e4;
     }
-    &::-webkit-scrollbar-thumb{
-        background: #ffa7a7;
-        border-radius: 10px;
-    }
-}
-body{
-    &::-webkit-scrollbar{
-        width: 15px;
-    }
-    &::-webkit-scrollbar-track{
-        background: #fee4e4;
-    }
-    &::-webkit-scrollbar-thumb{
+
+    &::-webkit-scrollbar-thumb {
         background: #ffa7a7;
         border-radius: 10px;
     }
@@ -47,7 +38,7 @@ body{
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
     transition: 0.5s ease;
-    font-family: "Prompt",sans-serif;
+    font-family: "Prompt", sans-serif;
     /* padding: 1.25rem; */
 
     &:hover {
@@ -63,28 +54,35 @@ body{
         align-items: center;
 
         .img {
+            display: flex;
             justify-content: center;
+            align-items: center;
             background-color: rgb(255, 255, 255);
             border-radius: 2rem;
             width: 200px;
-            height: 200px;
-            img{
-                padding: auto;
+
+            img {
+                padding: 20px;
+                width: auto;
+                height: 200px;
             }
         }
-        .text{
+
+        .text {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: flex-start;
             padding: 1rem;
             gap: 1rem;
-            .nameproduct{
+
+            .nameproduct {
                 font-size: 1.3rem;
                 font-weight: 500;
             }
-            .typeproduct{
-                p{
+
+            .typeproduct {
+                p {
                     font-size: 1rem;
                     font-weight: 400;
                 }
@@ -105,6 +103,7 @@ body{
     justify-items: center;
 }
 
-hr{
-    background-color: #F2E394;
+hr {
+    justify-self: center;
+    width: 80%;
 }

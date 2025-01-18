@@ -2,7 +2,7 @@ import './card.css'
 import { Link } from 'react-router'
 import DataProduct from '../../../public/Data/ข้อมูลครืมตุ่งๆ.json'
 // card ที่ใช้ในหน้า product
-const Card = ({ KEY, Image, ProductNameEng, Type, }) => { 
+const Card = ({ KEY, Image, ProductNameEng, Brand, }) => { 
 
 
     return (
@@ -16,7 +16,7 @@ const Card = ({ KEY, Image, ProductNameEng, Type, }) => {
                         <div className="text max-w-80 ml-5">
                             <p className='nameproduct'>{ProductNameEng}</p>
                             <div className="type inline-block px-2 py-4 rounded-2xl">
-                                <p className='typeproduct'>{Type}</p>
+                                <p className='typeproduct'>{Brand}</p>
                             </div>
                         </div>
                     </div>

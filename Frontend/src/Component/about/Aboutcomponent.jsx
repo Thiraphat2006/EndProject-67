@@ -40,15 +40,15 @@ function Aboutcomponent() {
 export default Aboutcomponent
 
 //CardProfile
-export const CardProfile = ({ IDcard , name, no, purpose }) => {
+export const CardProfile = ({ IDcard , name, No, purpose }) => {
     return (
         <>
             <div className="cardprofile " id={IDcard}>
                 <div className="card-con">
-                    <img src={TEST} alt="" />
+                    <img src={TEST} alt="image error" />
                     <div className="text-con">
                         <h1>{name}</h1>
-                        <p>ปวช. 3/1 คอมฯ เลขที่ {no}</p>
+                        <p>ปวช. 3/1 คอมฯ เลขที่ {No}</p>
                         {/* <h2>หน้าที่</h2> */}
                         <p>{purpose}</p>
                     </div>
@@ -61,7 +61,7 @@ export const CardProfile = ({ IDcard , name, no, purpose }) => {
 export const Toptext = () => {
     return (
         <>
-            <span className='text-center block text-4xl mt-5'>จัดทำโดย</span>
+            <span className='text-center block text-4xl mt-5'> Creator By</span>
         </>
     )
 }
