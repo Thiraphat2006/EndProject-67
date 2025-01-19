@@ -18,14 +18,14 @@ export default function Recommand() {
         , [])
     return (
         <>
-            <div className="img-bg">
-                <img src={BG} alt="" className='fade-in' />
-                <div className="text-container text-2xl">
-                    <h1> ยินดีต้อนรับสู่</h1>
-                    <h2> เว็บไซต์แนะแนะนำผลิตภัณฑ์ถนอมผิวหน้าผิวกาย</h2>
-                    <div className="btn-con">
+            <div className="img-bg h-full  ">
+                <img src={BG} alt="" className='fade-in object-contain h-auto w-[250px] bottom-0 md:bottom-[0px] md:top-[500px] md:w-[1500px] lg:top-[625px] xl:w-[1200px] xl:top-[0px]' />
+                <div className="text-container text-2xl top-[250px] left-[15px] flex flex-col md:top-[150px] md:left-[100px] lg:top-[200px] lg:left-[200px] xl:top-[200px] xl:left-[900px] ">
+                    <h1 className='md:text-7xl xl:text-4xl'> ยินดีต้อนรับสู่</h1>
+                    <h2 className='text-lg md:text-3xl md:mt-9 xl:text-2xl'> เว็บไซต์แนะแนะนำผลิตภัณฑ์ถนอมผิวหน้าผิวกาย</h2>
+                    <div className="btn-con flex justify-center">
                         <Link id="Link" to='/ProductPage'>
-                            <div className="btn">
+                            <div className="btn w-80">
                                 <h3> เข้าสู่เว็ปไซต์</h3>
                             </div>
                         </Link>

@@ -1,35 +1,15 @@
 import React from 'react'
 import './Aboutcomponent.css'
-import TEST from "../../../public/Image/BG/man01.jpg"
+import DataProfile from "../../../public/Data/dataProfile.json"
 function Aboutcomponent() {
-    const DataProfile = [
-        {
-            IDcard: 'card1',
-            name: 'สุปรียา ทาทน',
-            no: 36,
-            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
-        },
-        {
-            IDcard: 'card2',
-            name: 'ธีรภัทร บูรณ์พิภพธนโชติ',
-            no: 34,
-            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
-        },
-        {
-            IDcard: 'card3',
-            name: 'ฟ้าใส ใจเกินร้อย',
-            no: 29,
-            // purpose: 'จัดทำ แก้ไข รูปเล่ม'
-        }
-    ]
 
     return (
         <>
             <Toptext />
-            <div className="allcardprofile w-4/5 flex justify-between mt-7 ml-40">
-                {DataProfile.map((item, index) => {
+            <div className="allcardprofile w-4/5 flex justify-between mt-7 ml-3 flex-col gap-8 md:ml-12 lg:flex-row lg:ml-7 xl:ml-[155px]">
+                {DataProfile.map((item) => {
                     return (
-                        <CardProfile key={index} IDcard={item.IDcard} name={item.name} no={item.no} purpose={item.purpose} />
+                        <CardProfile {...item} key={item.IDcard} />
                     )
                 })}
             </div>
@@ -40,17 +20,29 @@ function Aboutcomponent() {
 export default Aboutcomponent
 
 //CardProfile
-export const CardProfile = ({ IDcard , name, No, purpose }) => {
+export const CardProfile = ({ IDcard, name, Email, tel, Image }) => {
+
+    const isLocalhost = window.location.hostname === 'localhost';
+    let imagePath;
+    if (!isLocalhost) {
+        imagePath = `${Image.replace('../', '')}`;
+    }
+    else {
+        imagePath = `${Image}`;
+
+    }
+
     return (
         <>
-            <div className="cardprofile " id={IDcard}>
-                <div className="card-con">
-                    <img src={TEST} alt="image error" />
-                    <div className="text-con">
-                        <h1>{name}</h1>
-                        <p>ปวช. 3/1 คอมฯ เลขที่ {No}</p>
-                        {/* <h2>หน้าที่</h2> */}
-                        <p>{purpose}</p>
+            <div className="cardprofile w-[350px] h-[500px] md:w-[650px] md:h-[350px] lg:h-[500px] lg:w-[300px] xl:w-[350px] xl:h-[500px]" id={IDcard}>
+                <div className="card-con flex flex-col justify-start md:flex-row md:justify-between md:px-8 lg:flex-col">
+                    <div className="img-border">
+                        <img src={imagePath} alt="image error" />
+                    </div>
+                    <div className="text-con mt-[5%] mx-[10%] md:mx-[0%]">
+                        <h1 className='text-[1.4rem] lg:text-lg xl:text-xl'>{name}</h1>
+                        <p className='text-[1.2rem]'>{Email}</p>
+                        <p className='text-[1.2rem]'>{tel}</p>
                     </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 {
   "name": "end-project-67",
-  "homepage": "https://Thiraphat2006.github.io/ENDProject67/",
+  "homepage": "https://thiraphat2006.github.io/ENDProject67",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",

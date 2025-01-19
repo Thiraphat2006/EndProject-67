@@ -6,42 +6,51 @@ span {
 .cardprofile {
     font-family: "Prompt", sans-serif;
     display: flex;
-    width: 350px;
-    height: 450px;
+    /* width: 350px;
+    height: 500px; */
     background: #f8b2ab;
     border-radius: 20px;
     align-items: center;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
 
     .card-con {
+        /* display: flex;
+        flex-direction: column; */
         width: 100%;
+        align-items: center;
+        /* justify-content: flex-start; */
 
-        img {
-            height: 250px;
-            width: 250px;
-            justify-self: center;
+        .img-border {
+            display: flex;
+            justify-content: center;
+            align-items: center;
             border-radius: 50%;
-            object-fit: cover;
+            height: 280px;
+            width: 280px;
+            background-color: white;
 
+            img {
+                height: 250px;
+                width: 250px;
+                justify-self: center;
+                border-radius: 50%;
+                object-fit: cover;
+            }
         }
 
         .text-con {
-            margin: 5% 10% 0 10%;
+            /* margin: 5% 10% 0 10%; */
             color: black;
 
             h1 {
                 justify-self: center;
                 font-weight: 500;
-                font-size: 1.5rem;
-            }
-
-            h2 {
-                font-size: 1.5rem;
-                justify-self: center;
+                /* font-size: 1.4rem; */
             }
 
             p {
-                font-size: 1.2rem;
+                /* font-size: 1.2rem; */
+                justify-self: center;
             }
         }
     }

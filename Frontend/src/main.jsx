@@ -1,48 +1,49 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from 'react-router';
-import './index.css'
-import DataProductkey from '../public/Data/ข้อมูลครืมตุ่งๆ.json'
-//อิมพอตคอมโพเน้นที่สร้างไว้
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import { createBrowserRouter, RouterProvider } from 'react-router';
+import { HashRouter, Routes, Route } from 'react-router';
+import './index.css';
+
 import { ProductPage } from './Page/ProductPage.jsx';
 import Index from './Page/index.jsx';
 import About from './Page/About.jsx';
-import ProductDetail from './Page/ProductDetail.jsx'
-
-const KEY = DataProductkey.map((data) => data.KEY)
+import ProductDetail from './Page/ProductDetail.jsx';
 
 const router = createBrowserRouter([
 
   {
-    //index page
-    path: '/',
-    element: <Index />
+    path: '/ENDProject67/',
+    element: <Index />,
   },
   {
-    //page Product
     path: '/ProductPage',
     element: <ProductPage />,
   },
   {
     path: '/ProductPage/:KEY',
-    element: <ProductDetail />
+    element: <ProductDetail />,
   },
   {
-    //about page
     path: '/about',
-    element: <About />
-  }
-])
+    element: <About />,
+  },
+]);
 
-//ตัวนี้คือการเรียกใช้งาน RouterProvider โดยส่ง router ที่เราสร้างไว้เข้าไป
-createRoot(document.getElementById("root")).render(
+const isLocalhost = window.location.hostname === 'localhost';
+
+createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <RouterProvider router={router} />
+    {isLocalhost ? (
+      <RouterProvider router={router} />
+    ) : (
+      <HashRouter>
+        <Routes>
+          <Route path="/" element={<Index />} />
+          <Route path="/ProductPage" element={<ProductPage />} />
+          <Route path="/ProductPage/:KEY" element={<ProductDetail />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </HashRouter>
+    )}
   </StrictMode>
 );
-
-
-

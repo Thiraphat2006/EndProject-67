@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
 :root {
     --bg-color: #F28B82;
     --text-color: #F2E394;
@@ -17,15 +18,19 @@
     width: 80%;
 }
 
+.all-nav {
+    position: sticky;
+    top: 0px;
+    z-index: 9999;
+}
+
 nav {
     background-color: var(--bg-color);
     display: flex;
-    justify-content: center;
     align-items: center;
     height: 4.3rem;
-    position: sticky;
-    top:0px;
-    z-index: 9999;
+    top: 0px;
+
 
     .contrianer {
         .nav-con {
@@ -34,12 +39,13 @@ nav {
             justify-content: space-between; */
 
             .logo {
-                
+
                 a {
                     img {
                         width: var(--width-img);
                         transition: 0.5s ease;
-                        &:hover{
+
+                        &:hover {
                             transform: scale(1.25);
                             filter: drop-shadow(5px 10px 1px rgba(0, 0, 0, 0.1))
                         }
@@ -49,7 +55,7 @@ nav {
 
             .btn-list {
                 ul {
-                    display: flex;
+
                     align-items: center;
                     justify-items: center;
                     gap: var(--gap-btn);
@@ -76,7 +82,7 @@ nav {
                         }
 
                         a {
-                            font-family: "Prompt",sans-serif;
+                            font-family: "Prompt", sans-serif;
                             font-size: var(--font-size);
                             text-decoration: none;
                             color: var(--text-color);
@@ -88,4 +94,46 @@ nav {
         }
     }
 
+}
+
+.ham-bar {
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.right-menu {
+    right: 0px;
+    background-color: #F28B82;
+    height: 100vh;
+    width: 70%;
+    /* transform: translateX(100%); */
+    /* right: -70%; */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease;
+    ul {
+        .link-side {
+            width: 100%;
+
+            li {
+                display: flex;
+                justify-content: center;
+                padding: 15px;
+                color: var(--text-color);
+
+                &:hover {
+                    background-color: #9d554e;
+                }
+            }
+        }
+    }
+}
+
+.right-menu.active {
+    /*transform: translateX(0);*/ /* เลื่อนกลับมา */
+    /* right: 0; */
+    /* width: 70%; */
+    opacity: 1;
+    visibility: visible;
+    
 }

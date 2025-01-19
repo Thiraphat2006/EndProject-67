@@ -9,6 +9,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* overflow-x: hidden; */
     font-family: "Prompt", sans-serif;
 }
 
@@ -29,17 +30,11 @@ body {
 
 .card {
     background-color: var(--card-bg-color);
-    width: var(--card-width);
-    height: var(--card-height);
     border-radius: var(--card-radius);
-    display: grid;
-    justify-content: center;
-    align-items: center;
     cursor: pointer;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
     transition: 0.5s ease;
     font-family: "Prompt", sans-serif;
-    /* padding: 1.25rem; */
 
     &:hover {
         z-index: 1;
@@ -48,42 +43,37 @@ body {
     }
 
     .card-con {
-        width: 550px;
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-
+        
         .img {
             display: flex;
             justify-content: center;
             align-items: center;
             background-color: rgb(255, 255, 255);
             border-radius: 2rem;
-            width: 200px;
 
-            img {
+
+            /* img {
                 padding: 20px;
                 width: auto;
                 height: 200px;
-            }
+            } */
         }
 
         .text {
-            display: flex;
+            /* display: flex;
             flex-direction: column;
-            justify-content: center;
+            justify-content: center; */
             align-items: flex-start;
-            padding: 1rem;
+            /* padding: 1rem; */
             gap: 1rem;
 
             .nameproduct {
-                font-size: 1.3rem;
+                
                 font-weight: 500;
             }
 
             .typeproduct {
                 p {
-                    font-size: 1rem;
                     font-weight: 400;
                 }
             }

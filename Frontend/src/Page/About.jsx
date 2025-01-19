@@ -1,6 +1,5 @@
 import { React, useEffect } from 'react'
 import Navbar from '../Component/Navbar/Nav'
-import GoToTop from '../Component/Scrolltotop/Scrolltotop'
 import Aboutcomponent from '../Component/about/Aboutcomponent'
 function About() {
     useEffect(() => {
@@ -13,7 +12,6 @@ function About() {
         <>
             <Navbar />
             <Aboutcomponent />
-            <GoToTop />
         </>
     )
 }
