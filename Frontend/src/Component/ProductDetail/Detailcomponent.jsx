@@ -40,7 +40,7 @@ export const DetailofProDuct = ({ ProductNameThai, Type, Brand, Ingredients, Pro
                 <p className='font-semibold'>แบรนด์ :</p>
                 <p>{Brand}</p>
             </div>
-            <p className='font-semibold'>คุณสัมบัติ</p>
+            <p className='font-semibold'>คุณสมบัติ</p>
             <p className='w-[300px] text-base md:w-[500px]'>{Properties}</p>
             <p className='font-semibold'>ส่วนประกอบ</p>
             <p className='w-[300px] text-sm md:w-[500px]'>{Ingredients} ฯลฯ</p>

@@ -1,23 +1,23 @@
 [
     {
-        "IDcard": "1",
-        "name": "นางสาวสุปรียา ทาทน",
-        "Email": "thathonman@gmail.com",
-        "tel": "065-938-7242",
-        "Image":"../Image/Profile-image/2สุปรียา.jpg"
-    },
-    {
-        "IDcard": "2",
-        "name": "นายธีรภัทร บูรณ์พิภพธนโชติ",
-        "Email": "thiraphaearth@gmail.com",
-        "tel": "093-518-5071",
-        "Image":"../Image/Profile-image/ธีรภัทร.webp"
-    },
-    {
-        "IDcard": "3",
+        "IDcard": "card1",
         "name": "นางสาวดวงกมล ขิงหอม",
         "Email": "doungkamol.k12@gmail.com",
         "tel": "082-237-7730",
-        "Image":"../Image/Profile-image/1ดวงกมล.jpg"
+        "Image": "../Image/Profile-image/1ดวงกมล.jpg"
+    },
+    {
+        "IDcard": "card2",
+        "name": "นายธีรภัทร บูรณ์พิภพธนโชติ",
+        "Email": "thiraphaearth@gmail.com",
+        "tel": "093-518-5071",
+        "Image": "../Image/Profile-image/ธีรภัทร.webp"
+    },
+    {
+        "IDcard": "card3",
+        "name": "นางสาวสุปรียา ทาทน",
+        "Email": "thathonman@gmail.com",
+        "tel": "065-938-7242",
+        "Image": "../Image/Profile-image/2สุปรียา.jpg"
     }
 ]

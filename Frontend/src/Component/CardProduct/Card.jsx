@@ -5,7 +5,7 @@ import DataProduct from '../../../public/Data/ข้อมูลครืมต�
 // card ที่ใช้ในหน้า product
 const Card = ({ KEY, Image, ProductNameEng, Brand, }) => {
     
-    //ถ้าเป็น localhost ลบก็ไม่มีไร ถ้าไม่ก็ก็ลบ../หน้าที่อยู่ไฟล์แค่นั้น
+    //ถ้าเป็น localhost ก็ไม่มีไร ถ้าไม่ก็ก็ลบ../หน้าที่อยู่ไฟล์แค่นั้น
     const isLocalhost = window.location.hostname === 'localhost';
     let imagePath;
     if (!isLocalhost) {
@@ -71,25 +71,25 @@ export const Cardcontainer = ({ fill }) => {
 const Titlefortypefocard = () => {
     return (
         <div className="allin mt-5 sm:mb-32 md:mb-16 md:mt-10  ">
+            <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40">
+                ปรเภท คลีนซิ่ง
+            </h1>
+            <Cardcontainer fill='คลีนซิ่ง' />
+            <hr className='m-20 ' />
             <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40 ">
                 ปรเภท ครีนเซอร์
             </h1>
             <Cardcontainer fill='ครีนเซอร์' />
             <hr className='m-20 ' />
             <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40">
-                ปรเภท คลีนซิ่ง
+                ปรเภท โทนเนอร์
             </h1>
-            <Cardcontainer fill='คลีนซิ่ง' />
+            <Cardcontainer fill='โทนเนอร์' />
             <hr className='m-20 ' />
             <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40">
                 ปรเภท เซรั่ม
             </h1>
             <Cardcontainer fill='เซรั่ม' />
-            <hr className='m-20 ' />
-            <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40">
-                ปรเภท โทนเนอร์
-            </h1>
-            <Cardcontainer fill='โทนเนอร์' />
             <hr className='m-20 ' />
             <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40">
                 ปรเภท โลชั่น
