@@ -17,7 +17,7 @@ export const ImageDetail = ({ Image }) => {
     }
     return (
         <>
-            <div className='Imagedetail m-4 md:w-[500px] md:my-10'>
+            <div className='Imagedetail m-4 md:w-[500px] md:my-10 xl:w-[450px] xl:h-[500px]'>
                 <div className="image-con ">
                     <img src={imagePath} alt="Image Error" className='h-96 p-5 md:h-96' />
                 </div>
@@ -31,11 +31,18 @@ export const DetailofProDuct = ({ ProductNameThai, Type, Brand, Ingredients, Pro
     return (
         <div className="textdetail-con p-6 pt-7">
             <h1 className='text-3xl'>{ProductNameThai}</h1>
-            <p >ประเภท {Type}</p>
-            <p>แบรนด์ {Brand}</p>
-            <p >คุณสัมบัติ</p>
+            
+            <div className='flex gap-1'>
+                <p className='font-semibold'>ประเภท :</p>
+                <p>{Type}</p>
+            </div>
+            <div className='flex gap-1'>
+                <p className='font-semibold'>แบรนด์ :</p>
+                <p>{Brand}</p>
+            </div>
+            <p className='font-semibold'>คุณสัมบัติ</p>
             <p className='w-[300px] text-base md:w-[500px]'>{Properties}</p>
-            <p>ส่วนประกอบ</p>
+            <p className='font-semibold'>ส่วนประกอบ</p>
             <p className='w-[300px] text-sm md:w-[500px]'>{Ingredients} ฯลฯ</p>
 
             <Link to='/ProductPage' className='link-btn mt-10'>
@@ -60,7 +67,7 @@ function Detailcomponent() {
     }
 
     return (
-        <div className="deteil-con flex flex-col w-full h-auto md:mx-10 md:my-5 md:rounded-3xl md:w-[90%] md:justify-center md:items-center lg:flex-row lg:px-9 xl:mt-14 xl:px-5 xl:ml-20 xl:justify-start">
+        <div className="deteil-con flex flex-col w-full h-auto md:mx-10 md:my-5 md:rounded-3xl md:w-[90%] md:justify-center md:items-center lg:flex-row lg:px-9 xl:mt-8 xl:px-5 xl:ml-20 xl:justify-start xl:mb-0">
             <ImageDetail {...productFilter} />
             <DetailofProDuct {...productFilter} />
         </div>

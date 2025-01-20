@@ -19,9 +19,9 @@ const Card = ({ KEY, Image, ProductNameEng, Brand, }) => {
     return (
         <>
             <Link to={`/ProductPage/${KEY}`} >
-                <div className="card h-[400px] md:h-60 w-full flex justify-center md:w-[340px] md:flex md:items-center lg:w-[400px] xl:w-[600px] xl:h-[340px] xl:justify-start">
+                <div className="card h-[450px] md:h-[270px] w-full flex justify-center md:w-[340px] md:flex md:items-center lg:w-[400px] xl:w-[600px] xl:h-[340px] xl:justify-start">
                     <div className="card-con flex flex-col justify-center items-center  md:flex-row  ">
-                        <div className="img w-64 h-auto md:w-[150px] md:h-52 md:ml-5 lg:w-[200px] xl:w-[250px] xl:h-72">
+                        <div className="img w-64 h-auto mb-3 md:w-[150px] md:h-52 md:ml-5 lg:w-[200px] xl:w-[250px] xl:h-72">
                             <img src={imagePath} alt="Image Error" className='pt-1 w-auto h-[200px] md:w-auto md:h-40 xl:h-52'/>
                         </div>
                         <div className="text flex flex-col justify-center items-center text-lg w-56 md:text-xs md:pl-4 md:w-40 lg:text-base xl:text-2xl xl:w-60">

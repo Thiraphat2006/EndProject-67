@@ -4,7 +4,7 @@
         "name": "นางสาวสุปรียา ทาทน",
         "Email": "thathonman@gmail.com",
         "tel": "065-938-7242",
-        "Image":"../Image/Profile-image/1สุปรียา.jpg"
+        "Image":"../Image/Profile-image/2สุปรียา.jpg"
     },
     {
         "IDcard": "2",
@@ -15,9 +15,9 @@
     },
     {
         "IDcard": "3",
-        "name": "นางสาวดวงกมล ",
-        "Email": "@gmail.com",
-        "tel": "",
+        "name": "นางสาวดวงกมล ขิงหอม",
+        "Email": "doungkamol.k12@gmail.com",
+        "tel": "082-237-7730",
         "Image":"../Image/Profile-image/1ดวงกมล.jpg"
     }
 ]
