@@ -77,7 +77,7 @@ const Titlefortypefocard = () => {
             <Cardcontainer fill='คลีนซิ่ง' />
             <hr className='m-20 ' />
             <h1 className="text-4xl font-bold ml-11 md:ml-24 xl:ml-40 ">
-                ปรเภท ครีนเซอร์
+                ปรเภท คลีนเซอร์
             </h1>
             <Cardcontainer fill='ครีนเซอร์' />
             <hr className='m-20 ' />
