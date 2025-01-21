@@ -27,11 +27,11 @@ export const ImageDetail = ({ Image }) => {
 }
 
 //ฝั่งข้อความต่างๆ
-export const DetailofProDuct = ({ ProductNameThai, Type, Brand, Ingredients, Properties }) => {
+export const DetailofProDuct = ({ ProductNameThai, Type, Brand, Ingredients, Properties ,Outlink }) => {
     return (
         <div className="textdetail-con p-6 pt-7">
             <h1 className='text-3xl'>{ProductNameThai}</h1>
-            
+
             <div className='flex gap-1'>
                 <p className='font-semibold'>ประเภท :</p>
                 <p>{Type}</p>
@@ -44,12 +44,18 @@ export const DetailofProDuct = ({ ProductNameThai, Type, Brand, Ingredients, Pro
             <p className='w-[300px] text-base md:w-[500px]'>{Properties}</p>
             <p className='font-semibold'>ส่วนประกอบ</p>
             <p className='w-[300px] text-sm md:w-[500px]'>{Ingredients} ฯลฯ</p>
-
-            <Link to='/ProductPage' className='link-btn mt-10'>
-                <div className="returnlink ">
-                    <p>ย้อนกลับ</p>
-                </div>
-            </Link>
+            <div className="btn mt-10 flex gap-4">
+                <Link to='/ProductPage' className='link-btn flex justify-center items-center'>
+                    <div className="returnlink ">
+                        <p>ย้อนกลับ</p>
+                    </div>
+                </Link>
+                <Link to={Outlink} target="_blank">
+                    <div className="outlink ">
+                        <p>ดูเพิ่มเติม</p>
+                    </div>
+                </Link>
+            </div>
 
 
         </div>

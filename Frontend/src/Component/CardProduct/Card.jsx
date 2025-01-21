@@ -18,7 +18,7 @@ const Card = ({ KEY, Image, ProductNameEng, Brand, }) => {
 
     return (
         <>
-            <Link to={`/ProductPage/${KEY}`} >
+            <Link to={`/ProductPage/${KEY}`} target="_blank">
                 <div className="card h-[450px] md:h-[270px] w-full flex justify-center md:w-[340px] md:flex md:items-center lg:w-[400px] xl:w-[600px] xl:h-[340px] xl:justify-start">
                     <div className="card-con flex flex-col justify-center items-center  md:flex-row  ">
                         <div className="img w-64 h-auto mb-3 md:w-[150px] md:h-52 md:ml-5 lg:w-[200px] xl:w-[250px] xl:h-72">
