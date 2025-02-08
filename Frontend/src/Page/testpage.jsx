@@ -1,8 +1,9 @@
 import React from 'react'
-import Search from '../Component/Search bar/Search-bar'
+import Typebar from '../Component/typemenu/Type-menu'
+
 const testpage = () => {
   return (
-    <Search/>
+    <Typebar />
   )
 }
 
